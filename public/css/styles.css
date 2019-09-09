@@ -1,0 +1,33 @@
+#newArrivalsMenWomen > .container:first-child {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#newArrivalsMenWomen > .container:first-child div {
+    margin-top: 0;
+}
+
+.disappear {
+    display: none !important;
+}
+
+.form-date-group {
+    position: relative;
+}
+
+.form-date-group > input,
+.form-date-group > input:focus,
+.form-date-group > input:active {
+    color: transparent;
+}
+
+.form-date-group > label {
+    position: absolute;
+    left: 15px;
+    top: 12px;
+    font-size: 13px;
+}
+
+#registerForm select.form-control {
+    padding: 10px 15px 10px 15px;
+}

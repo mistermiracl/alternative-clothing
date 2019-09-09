@@ -1,0 +1,18 @@
+{
+    "name": "ozy/alternative-clothing",
+    "description": "E-Commerce para emprendedores peruanos",
+    "type": "project",
+    "require-dev": {
+        "vlucas/phpdotenv": "^3.3@dev",
+        "phalcon/ide-stubs": "dev-master"
+    },
+    "license": "Apache 2.0",
+    "authors": [
+        {
+            "name": "Ozy",
+            "email": "adrian.valdez@usil.pe"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
